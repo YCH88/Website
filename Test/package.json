@@ -19,6 +19,7 @@
     "react-native": "0.71.8",
     "react-native-web": "~0.19.6"
   },
+  "homepage":"https://ych88.github.io/Web-Test/Test/",  
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
